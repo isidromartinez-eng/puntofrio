@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "src": "assets/img/hero.jpg",
+    "title": "Refrigerators in supermarket",
+    "creator": "Open Grid Scheduler / Grid Engine",
+    "creator_url": "https://www.flickr.com/photos/29155878@N03",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/29155878@N03/23731820012",
+    "source": "flickr"
+  },
+  "about": {
+    "src": "assets/img/about.jpg",
+    "title": "20111020-FNS-LSC-0020",
+    "creator": "USDAgov",
+    "creator_url": "https://www.flickr.com/photos/41284017@N08",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/41284017@N08/6629215783",
+    "source": "flickr"
+  }
+}

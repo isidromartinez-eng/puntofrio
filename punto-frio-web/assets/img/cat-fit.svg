@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFF7FE"/>
+      <stop offset="1" stop-color="#D6EAFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <g stroke="#B7D9F5" stroke-width="6" stroke-linecap="round" transform="translate(108 112) rotate(-20)">
+    <line x1="-22" y1="0" x2="22" y2="0"/><line x1="-11" y1="-19" x2="11" y2="19"/><line x1="-11" y1="19" x2="11" y2="-19"/>
+  </g>
+  <g stroke="#B7D9F5" stroke-width="5" stroke-linecap="round" transform="translate(690 475) rotate(12) scale(.8)">
+    <line x1="-22" y1="0" x2="22" y2="0"/><line x1="-11" y1="-19" x2="11" y2="19"/><line x1="-11" y1="19" x2="11" y2="-19"/>
+  </g>
+  <circle cx="400" cy="300" r="155" fill="#FFFFFF" opacity=".7"/>
+  <g transform="translate(400 305)" stroke="#1B66C2" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 74 C -88 6 -52 -68 0 -26 C 52 -68 88 6 0 74 Z"/>
+    <path d="M6 -44 C 16 -70 46 -76 58 -64 C 54 -42 26 -34 6 -44 Z"/>
+  </g>
+</svg>
